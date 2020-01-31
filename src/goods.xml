@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<goods>
+    <good>
+        <name>Pillow</name>
+        <country>Turkey</country>
+        <volume>200</volume>
+    </good>
+    <good>
+        <name>Bracelet</name>
+        <country>India</country>
+        <volume>25</volume>
+    </good>
+    <good>
+        <name>Sweets</name>
+        <country>England</country>
+        <volume>5000</volume>
+    </good>
+    <good>
+        <name>Clothes</name>
+        <country>France</country>
+        <volume>2000</volume>
+    </good>
+    <good>
+        <name>Furniture</name>
+        <country>Germany</country>
+        <volume>15</volume>
+    </good>
+    <good>
+        <name>Lipstick</name>
+        <country>Brasil</country>
+        <volume>150</volume>
+    </good>
+</goods>
